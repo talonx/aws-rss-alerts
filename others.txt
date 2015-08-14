@@ -1,0 +1,7 @@
+http://status.aws.amazon.com/rss/fps.rss
+http://status.aws.amazon.com/rss/route53.rss
+http://status.aws.amazon.com/rss/cloudfront.rss
+http://status.aws.amazon.com/rss/route53.rss
+http://status.aws.amazon.com/rss/management-console.rss
+http://status.aws.amazon.com/rss/import-export.rss
+http://status.aws.amazon.com/rss/management-console.rss
